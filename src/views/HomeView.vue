@@ -1,0 +1,17 @@
+<template>
+  <div class="home">
+    <h1>Homepage</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, sed. Nobis quo suscipit laborum obcaecati tenetur veritatis, blanditiis accusamus doloremque dolores a eum numquam quaerat saepe velit laudantium ex cupiditate odio, placeat exercitationem excepturi, tempore doloribus. Vero enim tempora doloribus molestias dolore sapiente rem, ducimus quam! Blanditiis adipisci repudiandae eius at sequi iusto assumenda reprehenderit ipsa corrupti voluptatum recusandae ab quos suscipit nostrum rerum fuga, deleniti aperiam voluptate minima, earum magnam! Veniam hic quod iure ut asperiores neque inventore nisi dolor sequi commodi, consectetur provident error libero deleniti facilis magnam nihil in aliquid incidunt. Quidem consectetur veritatis sint ipsa architecto.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, sed. Nobis quo suscipit laborum obcaecati tenetur veritatis, blanditiis accusamus doloremque dolores a eum numquam quaerat saepe velit laudantium ex cupiditate odio, placeat exercitationem excepturi, tempore doloribus. Vero enim tempora doloribus molestias dolore sapiente rem, ducimus quam! Blanditiis adipisci repudiandae eius at sequi iusto assumenda reprehenderit ipsa corrupti voluptatum recusandae ab quos suscipit nostrum rerum fuga, deleniti aperiam voluptate minima, earum magnam! Veniam hic quod iure ut asperiores neque inventore nisi dolor sequi commodi, consectetur provident error libero deleniti facilis magnam nihil in aliquid incidunt. Quidem consectetur veritatis sint ipsa architecto.</p>
+  </div>
+</template>
+
+<script>
+// @ is an alias to /src
+
+export default {
+  name: 'HomeView',
+  components: {
+  }
+}
+</script>
